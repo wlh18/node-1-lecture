@@ -1,177 +1,152 @@
 [
   {
-    "id": "114b68a9-ef54-42ac-8bcf-80440112f960",
-    "species": "Glossy ibis",
-    "scientific_name": "Plegadis falcinellus",
-    "name": "Magdalen",
-    "favorite_movie": "London Boulevard"
+    "id": 1,
+    "first_name": "Logan",
+    "last_name": "Tunaclift",
+    "email": "ltunaclift0@gmail.com"
   },
   {
-    "id": "a64b7791-c9af-4629-bf37-09ffa916eb86",
-    "species": "Squirrel, grey-footed",
-    "scientific_name": "Paraxerus cepapi",
-    "name": "Finn",
-    "favorite_movie": "Starsky & Hutch"
+    "id": 2,
+    "first_name": "Windham",
+    "last_name": "Seadon",
+    "email": "wseadon1@gmail.com"
   },
   {
-    "id": "fb874528-b1e3-4325-bffe-fd766e8f58fe",
-    "species": "Plains zebra",
-    "scientific_name": "Equus burchelli",
-    "name": "Terry",
-    "favorite_movie": "Rhapsody in Blue"
+    "id": 3,
+    "first_name": "Winnie",
+    "last_name": "Poll",
+    "email": "wpoll2@yahoo.com"
   },
   {
-    "id": "5d9aaeaf-5f5b-4183-9903-68d5dc2f81b6",
-    "species": "Stork, greater adjutant",
-    "scientific_name": "Leptoptilus dubius",
-    "name": "Armstrong",
-    "favorite_movie": "Alien Contamination"
+    "id": 4,
+    "first_name": "Kayla",
+    "last_name": "Attwoull",
+    "email": "kattwoull3@hotmail.com"
   },
   {
-    "id": "70a1c2c9-1747-423a-8ef3-abce3d085d5c",
-    "species": "Timber wolf",
-    "scientific_name": "Canis lupus lycaon",
-    "name": "Blancha",
-    "favorite_movie": "Five Graves to Cairo"
+    "id": 5,
+    "first_name": "Marc",
+    "last_name": "Kinzel",
+    "email": "mkinzel4@yahoo.com"
   },
   {
-    "id": "af44eed9-eac2-4692-8140-f97eb8d803e1",
-    "species": "Hedgehog, south african",
-    "scientific_name": "Erinaceus frontalis",
-    "name": "Karry",
-    "favorite_movie": "U-571"
+    "id": 6,
+    "first_name": "Martguerita",
+    "last_name": "Meeson",
+    "email": "mmeeson5@gmail.com"
   },
   {
-    "id": "31157f36-cf13-4cf2-9104-86741b20d7db",
-    "species": "Tarantula",
-    "scientific_name": "Lasiodora parahybana",
-    "name": "Lethia",
-    "favorite_movie": "Delirious"
+    "id": 7,
+    "first_name": "Gertrudis",
+    "last_name": "Gaffer",
+    "email": "ggaffer6@outlook.com"
   },
   {
-    "id": "598197bc-a471-454a-be1c-6d46c0a0017b",
-    "species": "Sandgrouse, yellow-throated",
-    "scientific_name": "Pterocles gutturalis",
-    "name": "Ula",
-    "favorite_movie": "Another Happy Day"
+    "id": 8,
+    "first_name": "Pall",
+    "last_name": "Chiommienti",
+    "email": "pchiommienti7@outlook.com"
   },
   {
-    "id": "270baf44-66cb-4a21-8422-e0b54238f018",
-    "species": "Cheetah",
-    "scientific_name": "Acinynox jubatus",
-    "name": "Bogey",
-    "favorite_movie": "Bûche, La"
+    "id": 9,
+    "first_name": "Danna",
+    "last_name": "O'Dee",
+    "email": "dodee8@hotmail.com"
   },
   {
-    "id": "9f9c37f9-a756-4184-89c8-b0f98632fbcc",
-    "species": "Agouti",
-    "scientific_name": "Dasyprocta leporina",
-    "name": "Rodrick",
-    "favorite_movie": "Cannibal! The Musical (a.k.a. Alferd Packer: The Musical)"
+    "id": 10,
+    "first_name": "Erena",
+    "last_name": "Curnokk",
+    "email": "ecurnokk9@gmail.com"
   },
   {
-    "id": "8206d9ea-0cfc-470f-8f5c-febc9464e8af",
-    "species": "Rose-ringed parakeet",
-    "scientific_name": "Psittacula krameri",
-    "name": "Galvin",
-    "favorite_movie": "It Runs in the Family (My Summer Story)"
+    "id": 11,
+    "first_name": "Tamas",
+    "last_name": "Nannetti",
+    "email": "tnannettia@yahoo.com"
   },
   {
-    "id": "688aa6f3-01e1-4c8e-8a39-92eda1964d25",
-    "species": "Elegant crested tinamou",
-    "scientific_name": "Eudromia elegans",
-    "name": "Aprilette",
-    "favorite_movie": "High School"
+    "id": 12,
+    "first_name": "Ashlen",
+    "last_name": "Spohr",
+    "email": "aspohrb@outlook.com"
   },
   {
-    "id": "9b5114ca-2f87-439a-bb1a-283aec3f5979",
-    "species": "Francolin, swainson's",
-    "scientific_name": "Francolinus swainsonii",
-    "name": "Haze",
-    "favorite_movie": "Quick Change"
+    "id": 13,
+    "first_name": "Cross",
+    "last_name": "Bucknell",
+    "email": "cbucknellc@hotmail.com"
   },
   {
-    "id": "af32d839-6e81-4329-b21e-a7412a97c2f8",
-    "species": "White spoonbill",
-    "scientific_name": "Platalea leucordia",
-    "name": "Graehme",
-    "favorite_movie": "Cannonball"
+    "id": 14,
+    "first_name": "Gabriell",
+    "last_name": "Philo",
+    "email": "gphilod@gmail.com"
   },
   {
-    "id": "76218a65-4edd-4948-8a2a-b93d74db884e",
-    "species": "Goose, spur-winged",
-    "scientific_name": "Plectopterus gambensis",
-    "name": "Hendrick",
-    "favorite_movie": "Urbania"
+    "id": 15,
+    "first_name": "Maximo",
+    "last_name": "Gaspar",
+    "email": "mgaspare@gmail.com"
   },
   {
-    "id": "9c9a4a82-0fe9-40d9-ad8b-d6f2610028d9",
-    "species": "Sambar",
-    "scientific_name": "Cervus unicolor",
-    "name": "Lyssa",
-    "favorite_movie": "2 Guns"
+    "id": 16,
+    "first_name": "Vivianne",
+    "last_name": "De Witt",
+    "email": "vdewittf@outlook.com"
   },
   {
-    "id": "c6c7a66e-9db6-4f3b-9f16-10a85e94f59c",
-    "species": "Eagle, crowned",
-    "scientific_name": "Spizaetus coronatus",
-    "name": "Raeann",
-    "favorite_movie": "Bingo Long Traveling All-Stars & Motor Kings, The"
+    "id": 17,
+    "first_name": "Sonnnie",
+    "last_name": "Rennix",
+    "email": "srennixg@yahoo.com"
   },
   {
-    "id": "48cfc6d3-6105-4211-912c-6268c1a1dacf",
-    "species": "Cat, long-tailed spotted",
-    "scientific_name": "Felis wiedi or Leopardus weidi",
-    "name": "Lena",
-    "favorite_movie": "Romance in a Minor Key (Romanze in Moll)"
+    "id": 18,
+    "first_name": "Jacob",
+    "last_name": "De Vries",
+    "email": "jdevriesh@gmail.com"
   },
   {
-    "id": "3e46013e-f6ce-47cf-806b-dc8f5e452641",
-    "species": "Thomson's gazelle",
-    "scientific_name": "Gazella thompsonii",
-    "name": "Fidelity",
-    "favorite_movie": "Hillbillys in a Haunted House"
+    "id": 19,
+    "first_name": "Kacie",
+    "last_name": "Angus",
+    "email": "kangusi@hotmail.com"
   },
   {
-    "id": "82b4dd4d-3719-4c9c-8772-21f35e95fc1d",
-    "species": "Squirrel, golden-mantled ground",
-    "scientific_name": "Spermophilus lateralis",
-    "name": "Dianemarie",
-    "favorite_movie": "Brother, Can You Spare a Dime?"
+    "id": 20,
+    "first_name": "Elie",
+    "last_name": "Aspital",
+    "email": "easpitalj@devmounta.in"
   },
   {
-    "id": "16792371-6bcf-413d-934f-c4a695d2be6f",
-    "species": "Herring gull",
-    "scientific_name": "unavailable",
-    "name": "Lynna",
-    "favorite_movie": "Save the Tiger"
+    "id": 21,
+    "first_name": "Kristofor",
+    "last_name": "Unger",
+    "email": "kungerk@gmail.com"
   },
   {
-    "id": "6f8fd574-ecfc-407a-a0aa-c4183c5555d1",
-    "species": "Pied crow",
-    "scientific_name": "Corvus albus",
-    "name": "Harry",
-    "favorite_movie": "Blonde Crazy"
+    "id": 22,
+    "first_name": "Aurelea",
+    "last_name": "Ullyatt",
+    "email": "aullyattl@outlook.com"
   },
   {
-    "id": "8785b347-9ed0-4bf6-80c7-102cd4799738",
-    "species": "Sungazer, yellow-brown",
-    "scientific_name": "Cordylus giganteus",
-    "name": "Madlen",
-    "favorite_movie": "Elephant White"
+    "id": 23,
+    "first_name": "Spense",
+    "last_name": "Legrand",
+    "email": "slegrandm@gmail.com"
   },
   {
-    "id": "cff6fc2b-70e7-4d17-b65a-eff0a4a6a73b",
-    "species": "Brazilian tapir",
-    "scientific_name": "Tapirus terrestris",
-    "name": "Kevina",
-    "favorite_movie": "My Brother Tom"
+    "id": 24,
+    "first_name": "Adriano",
+    "last_name": "Adie",
+    "email": "aadien@yahoo.com"
   },
   {
-    "id": "7a11e5d7-a1f3-4718-88ee-4fd1e91c5896",
-    "species": "Egyptian goose",
-    "scientific_name": "Alopochen aegyptiacus",
-    "name": "Sylvester",
-    "favorite_movie": "Rugrats in Paris: The Movie"
+    "id": 25,
+    "first_name": "Annabal",
+    "last_name": "Seymark",
+    "email": "aseymarko@gmail.com"
   }
 ]
