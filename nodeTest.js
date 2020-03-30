@@ -12,5 +12,7 @@ function sayMyName(name) {
   console.log(`My name is ${name}`)
 }
 
-// sayMyName(andrew.name)
-// console.log('THIS TOO')
+sayMyName(andrew.name)
+console.log('THIS TOO')
+console.log('NODEMON RUNNING?')
+console.log('ANOTHA ONE')
