@@ -12,5 +12,6 @@ app.get('/', (req, res) => {
 
 app.get('/api/users', controller.getAllUsers)
 app.get('/api/users/:id', controller.getOneUser)
+app.post('/api/users', controller.createUser)
 
 app.listen(PORT, () => console.log(`Listening on port ${PORT}`))

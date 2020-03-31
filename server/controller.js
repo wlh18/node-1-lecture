@@ -1,5 +1,8 @@
 const users = require('../data.json')
 
+// let id = users[users.length - 1].id + 1
+let id = 26
+
 module.exports = {
   getAllUsers: (req, res) => {
     //Allow for any query present on the user object
@@ -37,4 +40,30 @@ module.exports = {
       res.status(404).send('User not found')
     }
   },
+
+  createUser: (req, res) => {
+    const { first_name, last_name, email } = req.body
+
+    const newUser = {
+      id,
+      first_name,
+      last_name,
+      email,
+    }
+
+    users.push(newUser)
+
+    id++
+
+    res.status(200).send(users)
+  },
 }
+
+//Front end of createUser function
+// let newUser = {
+//   first_name: 'Scott',
+//   last_name: 'Sutherland',
+//   email: 'home@school.com'
+// }
+
+// axios.post('/api/users', newUser).then(res => .........)
